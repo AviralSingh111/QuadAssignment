@@ -5,5 +5,6 @@ npm install react-router-dom@5.2.0
 How to open in Local Device:
 
 1. Download the Code in Desktop/PC
-2. Install the dependency
-3. npm start in the terminal so a Local Host 3000 is opened.
+2. npm install in the terminal for node modules folder
+3. Install the dependency
+4. npm start in the terminal so a Local Host 3000 is opened.
